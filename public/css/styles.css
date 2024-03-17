@@ -590,20 +590,12 @@ video {
   position: relative;
 }
 
-.sticky {
-  position: sticky;
-}
-
 .inset-0 {
   inset: 0px;
 }
 
 .top-12 {
   top: 3rem;
-}
-
-.z-10 {
-  z-index: 10;
 }
 
 .z-50 {
@@ -897,11 +889,11 @@ video {
 }
 
 .bg-bg2 {
-  background-image: url('/public/images/blog3.jpg');
+  background-image: url('../images/blog3.jpg');
 }
 
 .bg-bg3 {
-  background-image: url('/public/images/blog1.jpg');
+  background-image: url('../images/blog1.jpg');
 }
 
 .bg-gradient-to-r {

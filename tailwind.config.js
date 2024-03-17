@@ -14,9 +14,9 @@ module.exports = {
         body: ["Josefin Sans"]
       },
       backgroundImage: {
-        'hero-pattern': "url('/public/images/background.jpg')",
-        'bg2': "url('../public/images/blog3.jpg')",
-        'bg3': "url('../public/images/blog1.jpg')"
+        'hero-pattern': "url('/images/background.jpg')",
+        'bg2': "url('/images/blog3.jpg')",
+        'bg3': "url('/images/blog1.jpg')"
       }
     },
   },

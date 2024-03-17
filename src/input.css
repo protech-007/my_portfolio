@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-.btn{
-    @apply w-40 p-2   bg-decorColor font-bold text-xl rounded-2xl cursor-pointer focus:outline-none hover:bg-primaryText hover:text-decorColor;
-}
+
+@layer components {
+    .btn{
+        @apply w-40 p-2   bg-decorColor font-bold text-xl rounded-2xl cursor-pointer focus:outline-none hover:bg-primaryText hover:text-decorColor;
+    }
+  }
+  

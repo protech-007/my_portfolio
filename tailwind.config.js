@@ -14,8 +14,8 @@ module.exports = {
         body: ["Josefin Sans"]
       },
       backgroundImage: {
-        'bg1': "url('/images/background.jpg')",
-        'bg3': "url('/images/blog1.jpg')"
+        'bg1': 'url("/images/background.jpg")',
+        'bg3': 'url("/images/blog1.jpg")'
       }
     },
   },
